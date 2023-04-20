@@ -1,0 +1,36 @@
+body{
+    background-color:#c7f464;
+}
+h1{
+    font-size: 100px;
+   font-family:"usar";
+    color:#aaff00;
+
+
+}
+p{
+    font-size: 20px;
+    font-family: "usar";
+    color:#aa00ff;
+   
+   
+
+}
+@font-face{
+    font-family:'usar';
+    src:url(HollowgraphyPersonalUseOnly-9hjqe.ttf ) format("opentype"), url(HollowgraphyPersonalUseOnly-9hjqe.ttf)
+    format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+button{
+    color: blue;
+    border-style: solid;
+    border-color: black;
+}
+
+
+table{
+    font-size: 35px;
+    font-family: "usar";
+}
